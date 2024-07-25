@@ -1,0 +1,10 @@
+https://www.themoviedb.org/
+API: d7b33ee6f00cd6bb15737da7f98b3721
+
+https://api.themoviedb.org/3/discover/movie/?sort_by=popularity.desc&api_key=d7b33ee6f00cd6bb15737da7f98b3721&page=1
+
+for image
+https://image.tmdb.org/t/p/original
+
+
+https://api.openweathermap.org/data/2.5/weather?q=karachi&appid=94ac3032ca0c54fdfd66654af6af2ba1
